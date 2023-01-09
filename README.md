@@ -53,7 +53,7 @@ GDELT data is well documented. The following pages are specifically relevant:
 
 ### Project Architecture
 
-[![Architecture Diagram Image][architecture-diagram]]
+![Architecture Diagram Image][architecture-diagram]
 
 * #1: Lambda uploads the latest GDELT 2.0 Events file to S3.
 * #2: Glue cleanses the data sitting in S3.
