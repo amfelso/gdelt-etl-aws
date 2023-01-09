@@ -120,4 +120,4 @@ Distributed under the MIT License.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN IMAGES -->
-[architecture-diagram]: /src/assets/images/architecture.png
+[architecture-diagram]: /src/assets/images/architecture.jpg
