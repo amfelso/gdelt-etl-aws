@@ -3,13 +3,9 @@
 
 Efficiently process and analyze large-scale global events data using a serverless cloud ETL pipeline built with AWS Glue, Lambda, S3, RDS, and Redshift.
 
----
-
 <!-- BADGES -->
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-blue)](https://www.credly.com)
 [![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-
----
 
 <!-- TABLE OF CONTENTS -->
 <details>
