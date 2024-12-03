@@ -46,7 +46,7 @@ This project demonstrates my ability to design, implement, and orchestrate a clo
 
 ## Architecture Overview
 
-![Architecture Diagram][architecture-diagram]
+![Architecture Diagram](https://github.com/amfelso/gdelt-etl-aws/blob/b6f06b4363502b11e688724e4e44daa25de2a8f4/src/assets/images/architecture.jpg)
 
 **Pipeline Flow**:
 1. **Data Ingestion**: A Lambda function downloads the latest GDELT data and uploads it to S3.
@@ -97,6 +97,3 @@ WHERE EventType='PROTEST'
 GROUP BY EventCountry
 ORDER BY COUNT(*) DESC
 LIMIT 5;
-
-<!-- MARKDOWN IMAGES -->
-[architecture-diagram]: /src/assets/images/architecture.jpg
